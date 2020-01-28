@@ -8,9 +8,10 @@ sample explainer text itself comes from the
 [TAG](https://w3ctag.github.io/)'s excellent
 [explainer explainer](https://w3ctag.github.io/explainers).
 
-There is also **[sample spec source](index.bs)** (in Bikeshed), and a
-[Makefile](Makefile) that can be used for testing explainer and spec
-changes locally.
+There is also **[sample spec source](deliverable.bs)** (in Bikeshed),
+and a [Makefile](Makefile) that can be used for testing explainer and
+spec changes locally. Don't forget to rename `deliverable.bs` to
+`shortname.bs`!
 
 <!-- When creating a new explainer, delete everything above the following line -->
 # [Title]
