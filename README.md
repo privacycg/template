@@ -16,10 +16,12 @@ explainer and spec changes locally. Don't forget to rename
 <!-- When creating a new explainer, delete everything above the following line -->
 # [Title]
 
-A
-<!-- Uncomment one of these lines, whichever is appropriate. -->
-<!-- [Proposal](https://privacycg.github.io/charter.html#proposals) -->
-<!-- [Work Item](https://privacycg.github.io/charter.html#work-items) -->
+[Keep one of these sentences:]
+
+A [Proposal](https://privacycg.github.io/charter.html#proposals)
+of the [Privacy Community Group](https://privacycg.github.io/).
+
+A [Work Item](https://privacycg.github.io/charter.html#work-items)
 of the [Privacy Community Group](https://privacycg.github.io/).
 
 ## Authors:
