@@ -1,9 +1,9 @@
 <pre class="metadata">
 <!-- The basics. Please change all of these values appropriately. -->
 Title: Privacy-Preserving Example API
-Shortname: deliverable
-Repository: privacycg/deliverable
-URL: https://privacycg.github.io/deliverable/
+Shortname: shortname
+Repository: privacycg/shortname
+URL: https://privacycg.github.io/shortname/
 <!-- Replace NNNNN with your w3cid, which is the number at the end of the url when you navigate to https://www.w3.org/users/myprofile -->
 Editor: Your Name, w3cid NNNNN, Your Employer https://employer.example/, you@employer.example
 Abstract: This specification defines the Example API, an exciting new method to invoke example methods from within a web browser.
